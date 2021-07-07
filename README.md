@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eliasoliveeira
+- 👀 I’m interested in study progamming
+- 🌱 I’m currently learning Python, JavaScript, React, (HTML, CSS)
+- 💞️ I’m looking to collaborate on create nem things to the internet, and the progamming world!
+- 📫 How to reach me (you can´t reach me...)
