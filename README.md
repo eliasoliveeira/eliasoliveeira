@@ -1,11 +1,9 @@
 ## Olá! Eu sou o Elias Oliveira
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasoliveeira&show_icons=true&theme=tokyonight)
-
 <div>
 <a href="https://github.com/eliasoliveeira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasoliveeira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasoliveeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasoliveeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasoliveeira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
